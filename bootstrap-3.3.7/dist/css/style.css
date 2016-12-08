@@ -1,0 +1,37 @@
+.navbar-default {
+    background-color: #65bdb5;
+    border-color: #e7e7e7;
+}
+
+.navbar-default .navbar-brand {
+    color: #000;
+}
+
+.navbar-default .navbar-toggle {
+    border-color: #65bdb5;
+}
+
+.collapse navbar-collapse {
+    right: top;
+}
+
+.input-group {
+    margin-top: 10px;
+}
+
+.navbar-nav {
+    margin-left: 60px;
+    margin-top: -55px;
+}
+
+#footerclass {
+    margin: auto;
+}
+
+.well-lg {
+    background-color: #d0cccc;
+}
+
+.btn-lg {
+    margin-top: 10px;
+}
